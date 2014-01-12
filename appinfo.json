@@ -1,0 +1,28 @@
+{
+  "uuid": "d1c6a66c-ce50-48b6-bb4e-62658495e24f",
+  "shortName": "Wanted",
+  "longName": "Wanted Watchface",
+  "companyName": "Surfea Industries",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "type": "png",
+        "name": "HAT",
+        "file": "images/hatd.png"
+      },
+      {
+        "type": "font",
+        "name": "STENCIL_24",
+        "file": "fonts/StencilStd.otf"
+      }
+    ]
+  }
+}
